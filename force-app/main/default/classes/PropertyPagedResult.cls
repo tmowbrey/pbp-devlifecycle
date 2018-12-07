@@ -11,5 +11,7 @@ public class PropertyPagedResult {
     
     @AuraEnabled
     public List<Property__c> properties { get;set; }
+	@AuraEnabled
+	public String myNewVariable {get;set;}
     
 }
