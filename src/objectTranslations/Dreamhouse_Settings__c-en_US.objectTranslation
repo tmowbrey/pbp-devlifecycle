@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Dreamhouse</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Dreamhouse</value>
+    </caseValues>
+    <fields>
+        <label><!-- Einstein Vision Email --></label>
+        <name>Einstein_Vision_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- LIFX Token --></label>
+        <name>LIFX_Token__c</name>
+    </fields>
+    <fields>
+        <label><!-- LIFX URL --></label>
+        <name>LIFX_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Light Service URL --></label>
+        <name>Light_Service_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Push Server URL --></label>
+        <name>Push_Server_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Slack Opportunity Webhook URL --></label>
+        <name>Slack_Opportunity_Webhook_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Slack Property Webhook URL --></label>
+        <name>Slack_Property_Webhook_URL__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

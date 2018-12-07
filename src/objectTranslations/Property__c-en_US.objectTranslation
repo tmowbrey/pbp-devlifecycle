@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Property</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Properties</value>
+    </caseValues>
+    <fields>
+        <label><!-- Address --></label>
+        <name>Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Assessed Value --></label>
+        <name>Assessed_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- Baths --></label>
+        <name>Baths__c</name>
+    </fields>
+    <fields>
+        <label><!-- Beds --></label>
+        <name>Beds__c</name>
+    </fields>
+    <fields>
+        <label><!-- Broker --></label>
+        <name>Broker__c</name>
+        <relationshipLabel><!-- Properties --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- City --></label>
+        <name>City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date Agreement --></label>
+        <name>Date_Agreement__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date Closed --></label>
+        <name>Date_Closed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date Contracted --></label>
+        <name>Date_Contracted__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date Listed --></label>
+        <name>Date_Listed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date Pre Market --></label>
+        <name>Date_Pre_Market__c</name>
+    </fields>
+    <fields>
+        <label><!-- Days On Market --></label>
+        <name>Days_On_Market__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Location --></label>
+        <name>Location__c</name>
+    </fields>
+    <fields>
+        <label><!-- Main Picture --></label>
+        <name>Picture_IMG__c</name>
+    </fields>
+    <fields>
+        <label><!-- Picture --></label>
+        <name>Picture__c</name>
+    </fields>
+    <fields>
+        <label><!-- Price --></label>
+        <name>Price__c</name>
+    </fields>
+    <fields>
+        <label><!-- Record Link --></label>
+        <name>Record_Link__c</name>
+    </fields>
+    <fields>
+        <label><!-- State --></label>
+        <name>State__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Available</masterLabel>
+            <translation><!-- Available --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Closed</masterLabel>
+            <translation><!-- Closed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contracted</masterLabel>
+            <translation><!-- Contracted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pre Market</masterLabel>
+            <translation><!-- Pre Market --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Under Agreement</masterLabel>
+            <translation><!-- Under Agreement --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Tags --></label>
+        <name>Tags__c</name>
+    </fields>
+    <fields>
+        <label><!-- Main Thumbnail --></label>
+        <name>Thumbnail_IMG__c</name>
+    </fields>
+    <fields>
+        <label><!-- Thumbnail --></label>
+        <name>Thumbnail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Title --></label>
+        <name>Title__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zip --></label>
+        <name>Zip__c</name>
+    </fields>
+    <layouts>
+        <layout>Property Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Description --></label>
+            <section>Description</section>
+        </sections>
+        <sections>
+            <label><!-- Pictures --></label>
+            <section>Pictures</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Smart Home --></label>
+        <name>Smart_Home</name>
+    </quickActions>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
