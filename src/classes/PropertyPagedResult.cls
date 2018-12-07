@@ -1,4 +1,6 @@
 public class PropertyPagedResult {
+	@AuraEnabled
+	public String myNewVariable {get;set;}
     
     @AuraEnabled
     public Integer pageSize { get;set; }
