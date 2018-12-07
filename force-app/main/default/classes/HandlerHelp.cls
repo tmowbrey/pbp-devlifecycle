@@ -1,7 +1,7 @@
 public with sharing class HandlerHelp implements BotHandler {
     
     public BotResponse handle(String utterance, String[] params, Map<String, String> session, String fileName, String fileContent) {
-        
+	system.debug('params = ' + params');        
 		List<Bot_Command__c> commands = 
             [SELECT Id, Sample_Utterance__c FROM Bot_Command__c
              WHERE Sample_Utterance__c != null And Active__C = True ORDER BY Sample_Utterance__c];
