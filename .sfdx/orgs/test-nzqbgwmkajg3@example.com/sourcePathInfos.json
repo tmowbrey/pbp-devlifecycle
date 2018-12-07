@@ -1,0 +1,77 @@
+[
+    [
+        "/mnt/c/Users/tyler.mowbrey.2D/IdeaProjects/PlayByPlay-Prod-DevLifecycle/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/mnt/c/Users/tyler.mowbrey.2D/IdeaProjects/PlayByPlay-Prod-DevLifecycle/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 512,
+            "modifiedTime": 1544174944797,
+            "changeTime": 1544174944797,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/mnt/c/Users/tyler.mowbrey.2D/IdeaProjects/PlayByPlay-Prod-DevLifecycle/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/mnt/c/Users/tyler.mowbrey.2D/IdeaProjects/PlayByPlay-Prod-DevLifecycle/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 512,
+            "modifiedTime": 1544174944798,
+            "changeTime": 1544174944798,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/mnt/c/Users/tyler.mowbrey.2D/IdeaProjects/PlayByPlay-Prod-DevLifecycle/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/mnt/c/Users/tyler.mowbrey.2D/IdeaProjects/PlayByPlay-Prod-DevLifecycle/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 512,
+            "modifiedTime": 1544174944798,
+            "changeTime": 1544174944798,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/mnt/c/Users/tyler.mowbrey.2D/IdeaProjects/PlayByPlay-Prod-DevLifecycle/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/mnt/c/Users/tyler.mowbrey.2D/IdeaProjects/PlayByPlay-Prod-DevLifecycle/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 512,
+            "modifiedTime": 1544174944798,
+            "changeTime": 1544174944798,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/mnt/c/Users/tyler.mowbrey.2D/IdeaProjects/PlayByPlay-Prod-DevLifecycle",
+        {
+            "state": "n",
+            "sourcePath": "/mnt/c/Users/tyler.mowbrey.2D/IdeaProjects/PlayByPlay-Prod-DevLifecycle",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 512,
+            "modifiedTime": 1544176014863,
+            "changeTime": 1544176014863,
+            "contentHash": "2e8eedc5c979ec2d027c279edb2e26b796191e8c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

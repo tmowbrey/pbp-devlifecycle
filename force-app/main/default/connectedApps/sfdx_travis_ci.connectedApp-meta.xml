@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>tmowbrey@gmail.com</contactEmail>
+    <label>sfdx travis ci</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIDCDCCAfACCQCWywx9kNkMDzANBgkqhkiG9w0BAQsFADBGMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEOMAwGA1UEBwwFUG93YXkxEjAQBgNVBAoMCVRyYXZpc1BCUDAeFw0xODEyMDcwNDIyNTNaFw0xOTEyMDcwNDIyNTNaMEYxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMQ4wDAYDVQQHDAVQb3dheTESMBAGA1UECgwJVHJhdmlzUEJQMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwUThS9At/+ZKa9a0rhdQfs/7aQ5jx2kjmSkwfQd7ia4BMytPxgmkNC6vf1E3cspO5Ib9FWw62wHX/V7WY4rs+MRvyKNlZ8MSCQFya1XawG+ZD1U3SXpsFiEyC8/FiIlJzvvAzjzpcpFHafyTBdnlvq/UCOM99h+elCl//VHtxbgk7VOkG9L5VN09VBOl+w2Uh+qKUgPtWZ/IeBck0RevlpR/Szon06+IDWsrjAHU7fL1cxPmR0OE85VFLYtCJQ2R6eGFQ8ZbNJZwx7KICz8inPNjm8JaPPYLYJIEgxhV9zCZvPYww7nws6Vg+sGeJogdC6eSrPW9HHPFfe80m+8GZwIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQCmHhk4iSJXP4FxLdzJaHDZXymPl0ZVsDEt2ucdMbdO4n8H+mV6v6V5rbLIYfdAz1GEcvcu1+nJSbVxqSmMVGcL5vLL70WXvL0YdBqG5ozswQa2Bj/6a7D2vkNzwh1x/9BebbkLJ/ic1VqTbBrAhDuw2avddQVrtGtW+5SlcWFX4XHZrD5zh61F4k2ySc4fIySWtOr69jpbtwpRFAIlvl/bQZZrW7LlOoAMfvKiGc1/IeoDBBshQAJLeVcnhDj7xa0VKgoI2gQmGSMFlPKSf378gHmjxHSwKwyjed3eZVnJLKiZT/b2ZwYm3WCbkag95OkeJofyy8itG2vPWVKi8efs</certificate>
+        <consumerKey>3MVG9KsVczVNcM8ye8AmWfXvT6A2wXOoN4qvabQwbjTt5dC13wDZKzLtCFHi8NwK0rR7jCEHNvI.s_3hOFhkf</consumerKey>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
