@@ -11,6 +11,6 @@ done
 git add .
 git commit -m "${MESSAGE}"
 git push -u origin ${BRANCH}
-sfdx force:org:create -v ${DEFAULTORG} -f /config/project-scratch-def.json -a ${SCRATCHORGNAME} --wait 3
+sfdx force:org:create -v ${DEFAULTORG} -f config/project-scratch-def.json -a ${SCRATCHORGNAME} --wait 3
 sfdx force:org:display -u ${SCRATCHORGNAME}
 sfdx force:source:push -u ${SCRATCHORGNAME}
